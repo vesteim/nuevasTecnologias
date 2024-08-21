@@ -2,6 +2,14 @@ ____________________git_______________________________   abrir con git bash here
 comandos obligatorios 
 git init  ----> crear rama principal ---> revisar que no tenga master
 git add . -----> rastrear todos los cambios
+git commit -m "version de la foto" nt s3f2008 ¬¬¬¬ejem) git commit -m "nt s3f2008 se descargan dependencias y se crea estructura de carpetas feat"
+    feat | refactor
+
+ git config --global user.name "Your Name"   
+ git config --global user.email you@example.com 
+
+
+
 
 
 
@@ -10,5 +18,6 @@ git add . -----> rastrear todos los cambios
 
 comandos opcionales
 git Status   ---> para consultar si hay cambios del repositorio
- limpiar clear 
+clear  limpiar
 
+git log   -------> viajes en el tiempo
